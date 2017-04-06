@@ -9,3 +9,6 @@ This project is not meant for real use.
 
 I'm still following the tutorial. Once finished, I plan to continue on my own to add more features to the editor.
 
+
+[1]: http://viewsourcecode.org/snaptoken/kilo
+
